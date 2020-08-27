@@ -1,0 +1,13 @@
+{
+  "METHOD_NAME": "addPost",
+  "REQUEST_TYPE": "POST",
+  "BASE_URL": "https://jsonplaceholder.typicode.com/posts",
+  "REQUEST_HEADER": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-type": "application/json"
+  },
+  "REQUEST_PARAMETERS": {
+    "title": "Test Post Title",
+    "body": "This is the body for the test post"
+  }
+}
